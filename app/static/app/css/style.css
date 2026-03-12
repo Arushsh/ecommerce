@@ -1,0 +1,49 @@
+.goodnessseccont img{
+    width: 100%;
+    /* background-color: rgb(13, 175, 175); */
+}
+
+.mlkpro{
+    color: #636362;
+    font-size: 25px;
+    line-height: 22px;
+    margin-bottom: 15px;
+    width: 43px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.goodnesssec a{
+    text-decoration: none;
+}
+
+.curdbgpro{
+    background-color: #fff;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), #fff);
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.5), #fff);
+    background-image: -moz-linear-gradient(rgba(0, 0, 0, 0.5), #fff);
+    background-image: -ms-linear-gradient(rgba(0, 0, 0, 0.5), #fff);
+    background-image: -o-linear-gradient(rgba(0, 0, 0, 0.5), #fff);
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.smbg{
+    background-color: #fff;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), #fff);
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.5), #fff);
+    background-image: -moz-linear-gradient(rgba(0, 0, 0, 0.5), #fff);
+    background-image: -ms-linear-gradient(rgba(0, 0, 0, 0.5), #fff);
+    background-image: -o-linear-gradient(rgba(0, 0, 0, 0.5), #fff);
+}
+
+.buttermilk{
+    background-color: #fff;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), #fff);
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.5), #fff);
+    background-image: -moz-linear-gradient(rgba(0, 0, 0, 0.5), #fff);
+    background-image: -ms-linear-gradient(rgba(0, 0, 0, 0.5), #fff);
+    background-image: -o-linear-gradient(rgba(0, 0, 0, 0.5), #fff);
+    border: 1px solid black;
+}
+
